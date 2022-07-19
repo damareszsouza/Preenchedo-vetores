@@ -18,3 +18,4 @@ programa
       escreva("O vetor na posição 2 é "+vetor[2])
    }
 }
+s
